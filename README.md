@@ -27,3 +27,12 @@ npm start
 ```shell
 npm run build
 ```
+
+
+_____
+Front Matter
+https://github.com/jxson/front-matter/blob/master/README.md
+
+---
+permalink: /public/index.html
+---
